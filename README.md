@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
+Just another repository.
 This is a modified README respect to master's README.
